@@ -106,7 +106,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ## **Have a feeling in ML**
 * [ ] [start weka](http://machinelearningmastery.com/start-here/#weka)
 * [ ] [**machine learning getting started**](http://machinelearningmastery.com/start-here/#getstarted)
-* [Scikit-learn Machine Learning with Python and SKlearn](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3)  
+* [ ][Scikit-learn Machine Learning with Python and SKlearn](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3)  
+* [ ][Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/) 
 
 ## Machine learning overview
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
